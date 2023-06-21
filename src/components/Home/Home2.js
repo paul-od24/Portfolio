@@ -17,8 +17,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            Ever since I embarked on my conversion masters in September 2022, 
+            I discovered my passion for programming and it has captivated me ever since. 
+            Throughout this journey, I have diligently honed my skills and expanded my knowledge, 
+            making significant strides in my programming abilities. 
+            As I reflect on my progress, I can confidently say that I have acquired a solid foundation 
+            and continue to grow in my understanding and proficiency.
+            I have at least learnt something, I think… 🤷‍♂️
               <br />
               <br />I am competent in classics like
               <i>
